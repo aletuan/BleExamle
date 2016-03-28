@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BleExamle</string>
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="ble_is_supported">BLE is supported</string>
+    <string name="scan_device">Scan Device</string>
+    <string name="unknown_device">Unknow device</string>
+</resources>
